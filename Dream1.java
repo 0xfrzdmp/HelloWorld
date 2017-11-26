@@ -7,6 +7,7 @@ public class Dream1 {
 		
 		System.out.println("I can achieve anything if I put my mind to it");
 
+		System.out.println("God is good!");
 	}
 
 }
